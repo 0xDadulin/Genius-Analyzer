@@ -2,6 +2,18 @@
 
 A Python-powered application that taps into the Genius API to delve deep into song lyrics, visualizing word frequencies for various artists. Discover patterns, trends, and the essence of your favorite songs through interactive data visualization.
 
+## Dive In
+
+Experience the application firsthand: [Genius Analyzer](https://genius-analyzer.0xdadulin.repl.co/)
+
+**Note**: Since the application is hosted on Replit, you might experience a short 5-15 second delay when accessing it for the first time as the server boots up.
+
+### Video Presentation
+
+Watch a brief video presentation of the application:
+
+[Genius Analyzer Video Presentation](https://www.loom.com/share/f3ff4851fc404b6aacb388af56b28c2d))
+
 ## Key Features
 
 - **Genius API Integration**: Extract lyrics from a wide range of artists and songs using the lyricsgenius library.
@@ -16,11 +28,6 @@ A Python-powered application that taps into the Genius API to delve deep into so
 - Dash (for web application framework)
 - Plotly (for interactive data visualization)
 
-## Dive In
-
-Experience the application firsthand: [Genius Analyzer](https://genius-analyzer.0xdadulin.repl.co/)
-
-**Note**: Since the application is hosted on Replit, you might experience a short 5-15 second delay when accessing it for the first time as the server boots up.
 
 ## Feedback and Collaborations
 
