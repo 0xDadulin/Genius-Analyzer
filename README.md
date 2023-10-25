@@ -12,7 +12,7 @@ Experience the application firsthand: [Genius Analyzer](https://genius-analyzer.
 
 Watch a brief video presentation of the application:
 
-[Genius Analyzer Video Presentation](https://www.loom.com/share/f3ff4851fc404b6aacb388af56b28c2d))
+[Genius Analyzer Video Presentation](https://www.loom.com/share/f3ff4851fc404b6aacb388af56b28c2d)
 
 ## Key Features
 
